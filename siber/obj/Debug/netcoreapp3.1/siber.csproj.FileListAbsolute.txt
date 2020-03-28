@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\siber\siber\obj\Debug\netcoreapp3.1\siber.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\siber\siber\obj\Debug\netcoreapp3.1\siber.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\siber\siber\obj\Debug\netcoreapp3.1\siber.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.exe
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.deps.json
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.runtimeconfig.json
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.dll
+C:\Users\CANBERK\source\repos\siber\siber\bin\Debug\netcoreapp3.1\siber.pdb
+C:\Users\CANBERK\source\repos\siber\siber\obj\Debug\netcoreapp3.1\siber.dll
+C:\Users\CANBERK\source\repos\siber\siber\obj\Debug\netcoreapp3.1\siber.pdb
